@@ -1,0 +1,16 @@
+{
+  "name": "elara-books-backend",
+  "version": "1.0.0",
+  "description": "API REST modular en Node.js para gestión, búsqueda avanzada y exportación CSV de libros.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
