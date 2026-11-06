@@ -34,7 +34,7 @@ elara-books/
 
 ---
 
-## 🛠️ Configuración e Instalación
+##  Configuración e Instalación
 
 1. **Base de Datos:**
    - Importa el archivo `database/schema.sql` en tu servidor MySQL.
@@ -63,3 +63,4 @@ elara-books/
 ### Reseñas (`/api/resenas`)
 - `GET /api/resenas/libro/:libroId` - Obtener reseñas de un libro.
 - `GET /api/resenas/exportar/:libroId` - Generar archivo CSV en el servidor dentro de la carpeta `/exports`.
+git 
