@@ -1,10 +1,10 @@
-# ELARA Books API 📚
+# REVIEW NODE-EXPRESS
 
 Sistema backend modular desarrollado con **Node.js**, **Express** y **MySQL** utilizando ECMAScript Modules (ESM) y la arquitectura por capas original del ecosistema ELARA.
 
 ---
 
-## 🏗️ Arquitectura del Proyecto
+##  Arquitectura del Proyecto
 
 ```text
 elara-books/
@@ -51,7 +51,7 @@ elara-books/
 
 ---
 
-## 🚀 Endpoints de la API
+##  Endpoints de la API
 
 ### Libros (`/api/libros`)
 - `GET /api/libros` - Obtener todos los libros.
